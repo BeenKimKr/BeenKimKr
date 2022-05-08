@@ -1,16 +1,18 @@
+### ✉️ Contact
 <p>
-  <a href="mailto:bin9610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bin9610@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:bin9610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+### 🥳 About me
 <p>
-  👋&nbsp; Hi there! <b>풀스택 개발자를 목표로 나아가는</b> 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
+  Hi! <b>풀스택 개발자를 목표로 나아가는</b> 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
   현재 백엔드에 대한 학습을 이어 가고 있으며,<br/>
-  JavaScript, Node.js, AWS 등 여러 방면의 stack을 쌓는 중입니다. <br/><br/>
-  개발은 <b>제 일상</b>이며 개발자가 <b>제 인생</b>입니다.🧑🏻‍💻 <br/><br/>
+  <b>JavaScript, Node.js, AWS</b> 등 여러 방면의 stack을 쌓는 중입니다. <br/><br/>
+  개발은 <b>일상</b>이며 개발자는 <b>인생</b>입니다.🧑🏻‍💻 <br/><br/>
 </p>
 
 ### 💪 Skills
-#### Platforms & Languages
+#### ✏️ Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -35,3 +37,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
+<br/><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeenKimKr&show_icons=true&theme=radical)
