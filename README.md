@@ -2,7 +2,7 @@
 <p>
   Hi! 풀스택을 지향하는 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
   현재 백엔드에 대한 학습을 이어 가고 있으며,<br/>
-  <b>JavaScript, Node.js, AWS</b> 등 여러 방면의 stack을 쌓는 중입니다.<br/><br/>
+  JavaScript, Node.js, AWS 등 여러 방면의 stack을 쌓으며 성장하는 중입니다.<br/><br/>
   개발은 <b>일상</b>이며 개발자는 <b>인생</b>입니다.🧑🏻‍💻 <br/>
 </p>
 
