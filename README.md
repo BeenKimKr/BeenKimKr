@@ -1,14 +1,9 @@
-### ✉️ Contact
-<p>
-  <a href="mailto:bin9610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
 ### 🥳 About me
 <p>
-  Hi! <b>풀스택 개발자를 목표로 나아가는</b> 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
+  Hi! 풀스택을 지향하는 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
   현재 백엔드에 대한 학습을 이어 가고 있으며,<br/>
   <b>JavaScript, Node.js, AWS</b> 등 여러 방면의 stack을 쌓는 중입니다. <br/><br/>
-  개발은 <b>일상</b>이며 개발자는 <b>인생</b>입니다.🧑🏻‍💻 <br/><br/>
+  개발은 <b>일상</b>이며 개발자는 <b>인생</b>입니다.🧑🏻‍💻 <br/>
 </p>
 
 ### 💪 Skills
@@ -18,8 +13,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=CSS3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 </p>
@@ -37,6 +32,10 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
-<br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeenKimKr&show_icons=true&theme=radical)
+#### ✉️ Contact
+<p>
+  <a href="mailto:bin9610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeenKimKr&show_icons=true&theme=aura)
