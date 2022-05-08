@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! <b>풀스택 개발자를 목표로 나아가는</b> 주니어 백엔드 개발자 BeenKimKr 입니다.🚀<br/>
+  👋&nbsp; Hi there! <b>풀스택 개발자를 목표로 나아가는</b> 주니어 백엔드 개발자 <b>KyungBeen</b>입니다.🚀<br/>
   현재 백엔드에 대한 학습을 이어 가고 있으며,<br/>
   JavaScript, Node.js, AWS 등 여러 방면의 stack을 쌓는 중입니다. <br/><br/>
   개발은 <b>제 일상</b>이며 개발자가 <b>제 인생</b>입니다.🧑🏻‍💻 <br/><br/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
-#### Tools
+#### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
