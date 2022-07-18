@@ -36,8 +36,8 @@
 #### ✉️ Contact
 <p>
   <a href="mailto:bin9610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p><br/>
+</p><br/> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeenKimKr&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeenKimKr&layout=compact&theme=tokyonight)
- -->
+
